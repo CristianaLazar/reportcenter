@@ -39,14 +39,14 @@ sec_session_start();
             <b><p style="font-size: 0.7em">Instructiuni privind activarea contului:</p></b>
             <p style="font-size: 0.5em">Pentru a te putea loga si accesa panoul de control din care poti prelua cazuri,
                 te rugam sa ne contactezi
-                la adresa de email" <b>constandavalentin@gmail.com</b>.</p>
+                la adresa de email" <b>lazarcristiana99@gmail.com</b>.</p>
             <p style="font-size: 0.5em">Va rugam ca in mail-ul pe care ni-l trimiteti sa
                 includeti un fisier de extensie .pdf cu contractul de munca scanat alaturi de o carte de identitate
                 valabila. </p>
             <p style="font-size: 0.5em">Apasa <a href="index.php">aici</a> pentru a reveni pe pagina principala.</p>
             <br>
             <b><p style="font-size: 0.7em">Date de contact:</p></b>
-            <p style="font-size: 0.5em"><b>Email:</b> constandavalentin@gmail.com </p>
+            <p style="font-size: 0.5em"><b>Email:</b> lazarcristiana99@gmail.com </p>
             <p style="font-size: 0.5em"><b>Numere de telefon:</b> 0731524423 ( Digi )/ 0744917904 </p>
         </div>
     </div>
@@ -116,14 +116,14 @@ sec_session_start();
             <b><p style="font-size: 0.7em">Instructiuni privind activarea contului:</p></b>
             <p style="font-size: 0.5em">Pentru a te putea loga si accesa panoul de control din care poti prelua cazuri,
                 te rugam sa ne contactezi
-                la adresa de email" <b>constandavalentin@gmail.com</b>.</p>
+                la adresa de email" <b>lazarcristiana99@gmail.com</b>.</p>
             <p style="font-size: 0.5em">Va rugam ca in mail-ul pe care ni-l trimiteti sa
                 includeti un fisier de extensie .pdf cu contractul de munca scanat alaturi de o carte de identitate
                 valabila. </p>
             <p style="font-size: 0.5em">Apasa <a href="index.php">aici</a> pentru a reveni pe pagina principala.</p>
             <br>
             <b><p style="font-size: 0.7em">Date de contact:</p></b>
-            <p style="font-size: 0.5em"><b>Email:</b> constandavalentin@gmail.com </p>
+            <p style="font-size: 0.5em"><b>Email:</b> lazarcristiana99@gmail.com </p>
             <p style="font-size: 0.5em"><b>Numere de telefon:</b> 0731524423 ( Digi )/ 0744917904 </p>
         </div>
     </div>

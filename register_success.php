@@ -33,7 +33,7 @@ die();
             <span>Te-ai inregistrat cu success!</span>
             <p style="font-size: 0.5em">Pentru a te putea loga si accesa panoul de control din care poti prelua cazuri,
                 te rugam sa ne contactezi
-                la adresa de email: <b>constandavalentin@gmail.com</b></p>
+                la adresa de email: <b>lazarcristiana99@gmail.com</b></p>
             <p style="font-size: 0.5em">Va rugam ca in mail-ul pe care ni-l trimiteti sa
                 includeti un fisier de extensie .pdf cu contractul de munca scanat alaturi de o carte de identitate
                 valabila. </p>

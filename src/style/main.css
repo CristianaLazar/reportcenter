@@ -68,10 +68,16 @@ body{
         border-bottom: none;
     }
 }
+
 .content{
     width:70%;
     margin-left:15%;
     margin-top:0.5%;
+}
+
+.add span span{
+  margin-top: 24px;
+  margin-bottom: 12px;
 }
 
 .report{
@@ -364,8 +370,9 @@ body{
     font-size: 12px;
 }
 .form .message a {
-    color: #4CAF50;
+    color: #0058a8;
     text-decoration: none;
+
 }
 .form .register-form {
     display: none;
@@ -657,7 +664,7 @@ body{
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     outline: 0;
-    background: #4CAF50;
+    background: #0058a8;
     width: 100%;
     border: 0;
     padding: 15px;
@@ -676,7 +683,7 @@ body{
     font-size: 12px;
 }
 .form .message a {
-    color: #4CAF50;
+    color: #0058a8;
     text-decoration: none;
 }
 .form .register-form {
@@ -857,3 +864,7 @@ a{
     display: block;
 }
 
+/*schimbari cristiana*/
+#login-button{
+  background-color: #0058a8;
+}

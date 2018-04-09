@@ -36,6 +36,7 @@ sec_session_start();
     include 'config/core.php';
     echo "<div id='app'></div>";
     ?>
+  
     </div>
     <script type="text/javascript" src="./build/index.js"></script>
     <script src="libs/js/jquery.js"></script>
