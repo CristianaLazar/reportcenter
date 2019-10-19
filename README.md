@@ -1,4 +1,4 @@
-#Report Centre - Documentatie
+# Report Centre - Documentatie
 
 
 <i><h2>Scopul proiectului ( Tema )</h2></i>
