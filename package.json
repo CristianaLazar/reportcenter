@@ -24,7 +24,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "auth0-lock": "^10.12.3",
+    "auth0-lock": "^11.26.3",
     "babel-preset-latest": "^6.16.0",
     "bootstrap": "^3.3.7",
     "classnames": "^2.2.5",
